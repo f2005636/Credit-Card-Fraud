@@ -18,5 +18,5 @@ From Event = 0 (No Fraud): 3% observations (8,611) are kept
 
 **Metrics**
 
-F1: 0.902
-Accuracy: 99.01%
+* F1: 0.902
+* Accuracy: 99.01%
